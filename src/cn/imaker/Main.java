@@ -17,6 +17,7 @@ public class Main {
             }
         }else {
             System.out.println(".bat 文件调用失败");
+            System.out.println(".bat 文件调用失败");
         }
 
     }
